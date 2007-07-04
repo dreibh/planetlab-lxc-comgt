@@ -1,0 +1,7 @@
+#Set UMTS only mode
+set com 115200n81
+set senddelay 0.05
+waitquiet 1 0.2
+send "AT_OPSYS=1^m"
+print "Setting UMTS only mode\n"
+

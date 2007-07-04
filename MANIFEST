@@ -1,0 +1,19 @@
+The following files should have been installed when you unarchived
+the tarball. If your file set does not match this list then you
+have an invalidly tarball and should delete the files and obtain 
+a valid download.
+
+CHANGELOG
+COMPILING
+gcom.1
+gcom.c
+gcom.h
+gpl.txt
+GPRS.txt
+Makefile
+MANIFEST
+operator
+sigmon
+sigmon.1
+TODO
+UMTS.txt
