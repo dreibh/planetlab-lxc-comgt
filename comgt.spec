@@ -1,6 +1,3 @@
-#
-# $Id: myplc.spec 555 2007-06-19 15:54:19Z thierry $
-#
 %define name comgt
 %define version 0.3
 %define subversion 1
